@@ -6,7 +6,6 @@ public class PruebaGit {
             return Guaricano;
         }
 
-        Casa("Anacaona");
     }
 
 }
